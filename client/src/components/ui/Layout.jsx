@@ -3,7 +3,7 @@ import { Outlet } from 'react-router-dom';
 
 import { Header } from './Header';
 import Footer from './Footer';
-
+// added the comment to understand about cors
 const Layout = () => {
   return (
     <>
