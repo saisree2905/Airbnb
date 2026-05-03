@@ -9,7 +9,7 @@ This project is a full-stack web application developed as a clone of Airbnb usin
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/GouthamReddy20/airbnb.git
+   git clone https://github.com/saisree2905/Airbnb.git
 
    ```
 
@@ -105,5 +105,7 @@ This project is a full-stack web application developed as a clone of Airbnb usin
 - **JWT:** JSON Web Tokens for secure user authentication.
 - **Cloudinary:** Cloud-based image management for storing and serving images.
 - **Google Cloud:** For gmail based authentication
-# airbnb
-# airbnb
+
+# Author
+
+Saisree
