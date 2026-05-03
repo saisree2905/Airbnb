@@ -1,4 +1,5 @@
 const mongoose = require('mongoose');
+// Created the api routes for bookings and authentication and listing feauters
 
 const connectWithDB = () => {
   mongoose.set('strictQuery', false);
